@@ -1,5 +1,28 @@
+* {
+    /* width: 0px; */
+    /* height: 0px; */
+    padding: 10px;
+    /* padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 13px;
+    padding-bottom: 5px; 
+    padding: 10px 13px 5px 15px; */
+    margin: 10px;
+    /* margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 13px;
+    margin-bottom: 5px; 
+    margin: 10px 13px 5px 15px; */
+    border: 2px solid peru;
+}
+
+
 body {
     font-family: 'Allerta', sans-serif;
+}
+
+.logotipo, .menu, .menu li {
+    display: inline-block;
 }
 
 .titulo {
